@@ -5,7 +5,7 @@
   "homepage": "https://dermistkaefer.github.io/DvbLive/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
-    "@sentry/react": "^6.8.0",
+    "@sentry/react": "^6.9.0",
     "@types/jest": "^26.0.23",
     "@types/mapbox-gl": "^2.1.2",
     "@types/node": "^15.6.0",
