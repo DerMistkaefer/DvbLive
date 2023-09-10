@@ -30,7 +30,7 @@ jobs:
         token: ${{ secrets.CODECOV_TOKEN }}  
     - name: Deploy - Github Pages
       if: github.event_name == 'push'
-      uses: crazy-max/ghaction-github-pages@v2.7.0
+      uses: crazy-max/ghaction-github-pages@v4.0.0
       with:
         target_branch: gh-pages
         build_dir: frontend/build
