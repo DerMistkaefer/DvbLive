@@ -23,8 +23,8 @@
     "worker-loader": "^3.0.8"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
+    "@testing-library/jest-dom": "^6.6.2",
+    "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.4.3",
     "jest-performance": "^2.1.0",
     "jest-webgl-canvas-mock": "^0.2.3",
