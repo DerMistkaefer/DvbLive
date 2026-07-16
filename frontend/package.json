@@ -6,7 +6,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@sentry/react": "^7.28.1",
-    "@types/jest": "^29.2.4",
+    "@types/jest": "^29.5.14",
     "@types/mapbox-gl": "^2.7.10",
     "@types/node": "^18.11.17",
     "@types/react": "^18.0.26",
