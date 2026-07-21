@@ -30,7 +30,7 @@
     "jest-webgl-canvas-mock": "^0.2.3",
     "jsdom-worker": "^0.3.0",
     "mitt": "^3.0.0",
-    "react-test-renderer": "18.1.0",
+    "react-test-renderer": "18.3.1",
     "uuid-v4": "^0.1.0"
   },
   "scripts": {
